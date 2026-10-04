@@ -1,0 +1,5 @@
+{
+  "summarization_prompt": "You are an expert NLP assistant. Please provide a concise but comprehensive summary of the following text:\n\n{text}",
+  "sentiment_analysis_prompt": "Analyze the sentiment of the following text. Determine whether it is positive, negative, or neutral. Provide a brief explanation for your classification.\n\nText: {text}",
+  "entity_extraction_prompt": "Extract the key entities (such as people, organizations, locations, and dates) from the following text and list them clearly.\n\nText: {text}"
+}
